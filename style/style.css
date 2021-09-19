@@ -1,0 +1,165 @@
+.insta-main{
+    display: flex;
+    flex-direction: row ;
+    justify-content: center;
+}
+
+.insta{
+    width: 400px;
+    height: 600px;
+}
+
+
+.login{
+    margin-top: 10px;
+    background-color: rgb(65, 124, 179);
+    width: 200px;
+    padding-left: 10px;
+}
+
+.login-page{
+    
+    padding: 20px;
+   border: 1px solid rgb(219, 213, 213);
+   border-radius: 20px;
+   height: 330px;
+   
+}
+
+
+.facebook{
+    padding-top: 10px;
+    color: rgb(0, 0, 0);
+}
+
+.insta-title{
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    padding-left: 50px;
+}
+
+.container-input{
+    padding: 20px;
+    
+}
+
+.input{
+    width: 200px;
+    height: 20px;
+    border-radius: 10px;
+    border: 1px solid black;
+    
+}
+.fb-login{
+    width: 20px;
+    height: 20px;
+}
+.fb-href{
+    text-decoration: none;
+    
+    
+
+}
+.fb-main{
+    display: flex;
+    padding-top: 10px;
+    justify-content: center;
+}
+
+.forgot{
+    text-decoration: none;
+    padding-left: 50px;
+    color: blue;
+}
+.last-div{
+    border: 1px solid rgb(219, 213, 213);
+    /* padding-top: 70px; */
+    margin-top: 75px;
+    height: 50px;
+    width: 290px;
+    justify-content: center;
+}
+
+.last-para{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    
+}
+.last-href{
+    text-decoration: none;
+    color: blue;
+}
+
+h4{
+    text-align: center;
+}
+.get-app{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+.last-apple{
+    width: 20px;
+    padding-left: 10px;
+    height: 30px;
+    padding-top: 10px;
+    
+}
+
+.apple-store{
+    background-color: black;
+    height: 50px;
+    display: flex;
+    flex-direction: row;
+    width: 130px;
+    border-radius: 10px;
+}
+.color{
+    color: blanchedalmond;
+    font-size: 10px;
+    padding-left: 5px;
+    
+}
+
+.google-store{
+    background-color: black;
+    height: 50px;
+    display: flex;
+    flex-direction: row;
+    width: 130px;
+    border-radius: 10px;
+}
+.last-play{
+    width: 30px;
+    padding-left: 10px;
+    height: 50px;
+    /* padding-top: 10px; */
+}
+
+.color2{
+    color: blanchedalmond;
+    font-size: 10px;
+    padding-left: 10px;
+}
+
+.about-2{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between ;
+    
+}
+
+.copy-insta{
+    text-align: center;
+ }
+
+
+ .terms-conditions{
+    text-decoration: none;
+    color: cadetblue;
+ }
+ .copy-right{
+    text-decoration: none;
+    color: rgb(45, 106, 219);
+    font-size: 20px;
+ }
